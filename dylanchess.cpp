@@ -9,7 +9,7 @@ class Board{
     int ROWS = 8;
     int COLUMNS = 8; 
     
-}
+};
 
 class Piece{
     public:
